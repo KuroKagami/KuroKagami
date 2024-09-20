@@ -1,6 +1,6 @@
 <h1>
     <a href="https://github.com/kurokagami/" style="color:8542DB">
-     <img align="center" alt="Logo Sparking" width="36px" src="https://i.imgur.com/qAktDn6.png">
+     <img align="center" alt="Logo Sparking" width="36px" src="https://i.imgur.com/YfqJkEF.png">
     <span>Jean Gabriel Henicka</span></a>
 </h1>
 <img align="right" style="padding:10% 0% 0% 0%" alt="me and my love" height="280" src="https://i.imgur.com/0g7nK9X.png">
