@@ -5,7 +5,7 @@
 </h1>
 <main>
 <img align="right" style="padding:10% 0% 0% 0%" alt="me and my love" height="280" src="https://i.imgur.com/0g7nK9X.png">
-<p align="justify"><b>Full Stack Developer</b>, graduating in IT, later I will study software engineering and postgraduate in prompt-based AI development.
+<p align="justify" style="padding:0% 50% 0% 0%"><b>Full Stack Developer</b>, graduating in IT, later I will study software engineering and postgraduate in prompt-based AI development.
 <br>
 I have knowledge in <b>Software and Web Development</b> with <b>Agile Methodology.</b> My first "Hello World" was in JavaScript and now I can't stop saying hello to the world in different languages
 <br>
