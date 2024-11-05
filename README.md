@@ -16,12 +16,18 @@ Passionate about art and technology, especially music and robotics, some of my h
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=8542DB)](https://www.linkedin.com/in/jean-gabriel-henicka-tormes-0482382ab/)
 
+<br/>
+
+****
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](/)
 -->
 
+
+
 ### 🧠 Hard Skills
 <!-- Languages -->
+<br/>
 
 [![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=ed814b)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=58b4cb)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -33,7 +39,7 @@ Passionate about art and technology, especially music and robotics, some of my h
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)](link)
 [![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=388dc1)](https://dev.mysql.com/doc/)
 [![NOSQL](https://img.shields.io/badge/NOSQL-000?style=for-the-badge&logo=mongoDB&logoColor=4fca81)](https://www.mongodb.com/pt-br/docs/)
-****
+
 <br/>
 
 <!-- Dev Tools -->
@@ -50,7 +56,8 @@ Passionate about art and technology, especially music and robotics, some of my h
 [![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer&logoColor=b78f5c)](https://getcomposer.org)
 [![NuGet](https://img.shields.io/badge/NuGet-000?style=for-the-badge&logo=nuget&logoColor=608cec)](https://learn.microsoft.com/pt-br/nuget/)
 [![Pip](https://img.shields.io/badge/Pip-000?style=for-the-badge&logo=python&logoColor=677ff6)](https://learn.microsoft.com/pt-br/nuget/)
-****
+
+
 <br/>
 
 <!-- Frameworks and Libraries -->
@@ -62,8 +69,9 @@ Passionate about art and technology, especially music and robotics, some of my h
 [![Env](https://img.shields.io/badge/env-000?style=for-the-badge&logo=e&logoColor=b78f5c)](https://packagist.org/packages/vlucas/phpdotenv)
 [![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=JSON%20web%20tokens)](https://packagist.org/packages/firebase/php-jwt)
 [![Zod](https://img.shields.io/badge/zod-000?style=for-the-badge&logo=zod&logoColor=4c6ead)](https://zod.dev)
-****
+
 <br/>
+
 
 <!-- Other Tools -->
 [![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=Canva&logoColor=48adf7)](https://www.canva.com)
